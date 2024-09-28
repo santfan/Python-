@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "beb00aecc6e0e2f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe95c1ff2bfeeaa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python's methods.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "789cf1c2b5bb40b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a08b27ac2a7b203f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bef0dd1ad2402169",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f1629e4b969ca66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e6de458fb0e1b83",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b0b5386de1d0ad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "79ef3d5355f78f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc6bfb5aee58568",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python's methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f7f9e96a94acc44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python's methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6da54413663a4e96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fa1914c3ee4061b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python's methods.md"
+              }
+            }
+          },
+          {
+            "id": "7cdd43e9c8965360",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5fe95c1ff2bfeeaa",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "Python's methods.md",
+    "Python's methods 1.md"
+  ]
+}
